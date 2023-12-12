@@ -9,6 +9,9 @@ body {
     align-items: center;
     justify-content: center;
   }
+html{
+    scroll-behavior: smooth;
+}
 
   header {
     background: url(images/paper-1074131.jpg);
